@@ -6,7 +6,7 @@ by Pau Mayench Caro
 
 PandaQ is an interactive web application built using Streamlit, allowing users to execute SQL-like queries on structured data loaded directly from CSV files. The application leverages the power of ANTLR4 for parsing custom query syntax and manipulates dataframes using Python’s Pandas library. This project was developed as part of the 2023 Programming Languages course at FIB (Facultat d'Informàtica de Barcelona). The source code and functionality of PandaQ are defined according to the specifications and instructions provided on [this webpage](https://gebakx.github.io/lp-pandaQ-23/). 
 
-![image](https://github.com/PauMayench/SQL-python-interpreter/assets/120923489/0379298b-cab3-4729-becf-61d1352445a5)
+![image](https://github.com/PauMayench/SQL-python-interpreter/assets/120923489/cfee1a03-4c0c-40a4-9e62-ea0a8adf1e19)
 
 
 ## Main Features
