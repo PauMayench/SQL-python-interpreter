@@ -226,7 +226,7 @@ class myPandaQVisitor(pandaQVisitor):
 
 #region MAIN 
 
-st.header("PandaQ: Pau Mayench Caro\nProjecte LP 2023 QT \n")
+st.header("PandaQ \nProjecte LP 2023 QT by Pau Mayench Caro\n")
 
 query = st.text_area("Query:", height=100)
 submit_button = st.button("Submit")
